@@ -1,0 +1,5 @@
+def main():
+    name = input("What is your name?")
+    day = input("What is the day of the week?")
+    print(f"Hello {name}! Happy {day}!")
+main()
